@@ -1,0 +1,20 @@
+:root {
+  font-family: "Manrope", "Nunito Sans", sans-serif;
+  line-height: 1.45;
+  font-weight: 500;
+  color: #14212f;
+  background: radial-gradient(circle at 10% 10%, #e8f4ff 0%, #f3f8fb 35%, #f9fcff 100%);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+}
